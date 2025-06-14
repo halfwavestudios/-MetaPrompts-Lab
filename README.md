@@ -27,24 +27,7 @@ Unlike typical prompt collections, MetaPrompts-Lab:
 
 ---
 
-## 🛠️ Structure
 
-MetaPrompts-Lab/
-├── cognitive/
-│ └── recursive-self-mirroring-prompts.md
-├── adversarial/
-│ └── ontology-distortion-prompts.md
-├── alignment-safe/
-│ └── bounded-meta-dialogues.md
-├── reasoning/
-│ └── paradox-injection-series.md
-├── README.md
-
-
-Each folder includes:
-- **Prompt frameworks** (not just examples)
-- **Philosophical framing** for deeper testing
-- **Expected vs emergent outcomes**
 
 ---
 
